@@ -1,0 +1,14 @@
+.crud_head{
+    display: flex ;
+    margin-top: 5%;
+}
+.crud_child{
+    margin-left: 10%;
+}
+.crud_child1{
+        margin-left: 30%;
+}
+td,th{
+    padding: 20px;
+    border-bottom: 1px solid black !important;
+}
